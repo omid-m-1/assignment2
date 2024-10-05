@@ -2,7 +2,7 @@
 
 ## Usage
 
-To train LeNet with CUDA kernel: `ptrhon main.py --kernel Custom` command. --kernel flag can be Custom or PyTorch.
+Train LeNet with CUDA kernel: `ptrhon main.py --kernel Custom`
  
 For compiling the kernel, enter the following command in the `longformer_util/deep-codegen` directory:
 ```bash
