@@ -1,0 +1,40 @@
+Training Custom Model...
+Epoch [1/5], Step [500/3750], Loss: 1.8161
+Epoch [1/5], Step [1000/3750], Loss: 1.6683
+Epoch [1/5], Step [1500/3750], Loss: 1.6578
+Epoch [1/5], Step [2000/3750], Loss: 1.6389
+Epoch [1/5], Step [2500/3750], Loss: 1.6282
+Epoch [1/5], Step [3000/3750], Loss: 1.6287
+Epoch [1/5], Step [3500/3750], Loss: 1.6214
+Epoch [2/5], Step [500/3750], Loss: 1.6163
+Epoch [2/5], Step [1000/3750], Loss: 1.6117
+Epoch [2/5], Step [1500/3750], Loss: 1.6085
+Epoch [2/5], Step [2000/3750], Loss: 1.6061
+Epoch [2/5], Step [2500/3750], Loss: 1.6102
+Epoch [2/5], Step [3000/3750], Loss: 1.5706
+Epoch [2/5], Step [3500/3750], Loss: 1.5323
+Epoch [3/5], Step [500/3750], Loss: 1.5205
+Epoch [3/5], Step [1000/3750], Loss: 1.5199
+Epoch [3/5], Step [1500/3750], Loss: 1.5173
+Epoch [3/5], Step [2000/3750], Loss: 1.5178
+Epoch [3/5], Step [2500/3750], Loss: 1.5180
+Epoch [3/5], Step [3000/3750], Loss: 1.5170
+Epoch [3/5], Step [3500/3750], Loss: 1.5153
+Epoch [4/5], Step [500/3750], Loss: 1.5079
+Epoch [4/5], Step [1000/3750], Loss: 1.5084
+Epoch [4/5], Step [1500/3750], Loss: 1.5113
+Epoch [4/5], Step [2000/3750], Loss: 1.5097
+Epoch [4/5], Step [2500/3750], Loss: 1.5064
+Epoch [4/5], Step [3000/3750], Loss: 1.5139
+Epoch [4/5], Step [3500/3750], Loss: 1.5010
+Epoch [5/5], Step [500/3750], Loss: 1.5029
+Epoch [5/5], Step [1000/3750], Loss: 1.5109
+Epoch [5/5], Step [1500/3750], Loss: 1.5064
+Epoch [5/5], Step [2000/3750], Loss: 1.5023
+Epoch [5/5], Step [2500/3750], Loss: 1.4995
+Epoch [5/5], Step [3000/3750], Loss: 1.5008
+Epoch [5/5], Step [3500/3750], Loss: 1.5003
+Training Time: 62.80 seconds
+Accuracy of the model on the 10000 test images: 95.69%
+final Results:
+Custom Model - Time: 62.80s, Accuracy: 95.69%

@@ -1,0 +1,40 @@
+Training PyTorch Model...
+Epoch [1/5], Step [500/3750], Loss: 2.2201
+Epoch [1/5], Step [1000/3750], Loss: 2.1676
+Epoch [1/5], Step [1500/3750], Loss: 2.1115
+Epoch [1/5], Step [2000/3750], Loss: 1.9417
+Epoch [1/5], Step [2500/3750], Loss: 1.9183
+Epoch [1/5], Step [3000/3750], Loss: 1.9121
+Epoch [1/5], Step [3500/3750], Loss: 1.9083
+Epoch [2/5], Step [500/3750], Loss: 1.8595
+Epoch [2/5], Step [1000/3750], Loss: 1.8474
+Epoch [2/5], Step [1500/3750], Loss: 1.8376
+Epoch [2/5], Step [2000/3750], Loss: 1.8372
+Epoch [2/5], Step [2500/3750], Loss: 1.8251
+Epoch [2/5], Step [3000/3750], Loss: 1.8342
+Epoch [2/5], Step [3500/3750], Loss: 1.8197
+Epoch [3/5], Step [500/3750], Loss: 1.8178
+Epoch [3/5], Step [1000/3750], Loss: 1.8195
+Epoch [3/5], Step [1500/3750], Loss: 1.8022
+Epoch [3/5], Step [2000/3750], Loss: 1.7456
+Epoch [3/5], Step [2500/3750], Loss: 1.7367
+Epoch [3/5], Step [3000/3750], Loss: 1.7351
+Epoch [3/5], Step [3500/3750], Loss: 1.7200
+Epoch [4/5], Step [500/3750], Loss: 1.7251
+Epoch [4/5], Step [1000/3750], Loss: 1.7162
+Epoch [4/5], Step [1500/3750], Loss: 1.7176
+Epoch [4/5], Step [2000/3750], Loss: 1.7132
+Epoch [4/5], Step [2500/3750], Loss: 1.7070
+Epoch [4/5], Step [3000/3750], Loss: 1.7279
+Epoch [4/5], Step [3500/3750], Loss: 1.6613
+Epoch [5/5], Step [500/3750], Loss: 1.6499
+Epoch [5/5], Step [1000/3750], Loss: 1.6599
+Epoch [5/5], Step [1500/3750], Loss: 1.6445
+Epoch [5/5], Step [2000/3750], Loss: 1.6314
+Epoch [5/5], Step [2500/3750], Loss: 1.6445
+Epoch [5/5], Step [3000/3750], Loss: 1.6349
+Epoch [5/5], Step [3500/3750], Loss: 1.6387
+Training Time: 65.39 seconds
+Accuracy of the model on the 10000 test images: 84.45%
+final Results:
+PyTorch Model - Time: 65.39s, Accuracy: 84.45%
